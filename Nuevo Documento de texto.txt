@@ -7,3 +7,6 @@ https://github.com/juanddiaz224/Proyecto.git
 
 Link de visualización de desborad en Binder: 
 https://hub.ovh2.mybinder.org/user/juanddiaz224-proyecto-o6dc7b9p/lab/workspaces/auto-w/tree/Proyecto_Juan_Daniel.ipynb
+
+
+Nota: Intente realizar lo posible para que se lograra visualizar en Binder, pero me solicitaba cambiar varias cosas, por lo cual se puede ingresar al repositorio de GitHub, y en el archivo de Proyecto_Juan_Daniel.ipynb, esta el link para ejecutar directamente en Google Colab, y asi ejecutar su contenido, solo seleccionando el icono con el nombre "Google Colab".
