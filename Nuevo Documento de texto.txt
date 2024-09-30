@@ -1,0 +1,9 @@
+Link de repositorios: 
+
+https://github.com/juanddiaz224/Proyecto.git
+
+
+
+
+Link de visualización de desborad en Binder: 
+https://hub.ovh2.mybinder.org/user/juanddiaz224-proyecto-o6dc7b9p/lab/workspaces/auto-w/tree/Proyecto_Juan_Daniel.ipynb
